@@ -1,0 +1,40 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+www/
+.angular/
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+*.iml
+
+# Compiled output
+tmp/
+out-tsc/
+bazel-out/
+
+# Testing
+coverage/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+.env.local
+
+# Capacitor
+android/
+ios/
+
+# Misc
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
